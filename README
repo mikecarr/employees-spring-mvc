@@ -1,0 +1,3 @@
+employees-spring-mvc
+
+Provides RESTful services using Spring MVC and JdbcTemplate
